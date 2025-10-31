@@ -58,8 +58,4 @@ Introduce monthly performance tracking to identify early dips in product demand.
 
 👩🏽‍💻 Author
 Siblelo Mafrika
-Business & Data Enthusiast | Start-up Founder | Analyst
-📍 Based in Cape Town, South Africa
-💼 LinkedIn Profile
- | 📧 mafrikasibuleo@gmail.com
-
+Business & Data Enthusiast 
