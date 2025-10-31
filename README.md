@@ -56,5 +56,6 @@ Automate daily sales reporting using Snowflake + Excel Power Query.
 Track sales across multiple locations in real-time dashboards.
 Introduce monthly performance tracking to identify early dips in product demand.
 
-Siblelo Mafrika
+Sibulelo Mafrika
+
 Business & Data Enthusiast 
