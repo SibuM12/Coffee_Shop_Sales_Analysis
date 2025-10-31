@@ -1,6 +1,7 @@
 # Coffee_Shop_Sales_Analysis
 
 ☕ Bright Coffee Shop Sales Analysis
+
 📊 Project Overview
 
 This project analyzes sales data from Bright Coffee Shop to uncover insights about revenue performance, customer behavior, and product trends.
@@ -9,19 +10,18 @@ The goal was to help management make data-driven decisions around marketing, inv
 🧠 Objectives
 
 Understand overall sales performance across different product categories and store locations.
-
 Identify peak hours and slow time slots to optimize staffing and marketing efforts.
-
 Determine best-selling and underperforming products.
-
 Provide actionable recommendations to boost revenue and customer retention.
 
 🧰 Tools & Technologies Used
+
 Tool	Purpose
 Snowflake SQL	Data extraction, transformation, and cleaning
 Microsoft Excel	Data visualization and dashboard creation
 Pivot Tables & Charts	Interactive analysis and insight generation
 GitHub	Version control and project documentation
+
 🔍 Key Findings & Insights
 
 Top-Selling Products:
