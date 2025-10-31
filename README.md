@@ -5,7 +5,7 @@
 📊 Project Overview
 
 This project analyzes sales data from Bright Coffee Shop to uncover insights about revenue performance, customer behavior, and product trends.
-The goal was to help management make data-driven decisions around marketing, inventory, and customer engagement strategies.
+The goal was to help the CEO to make data-driven decisions around marketing, inventory and customer engagement strategies.
 
 🧠 Objectives
 
@@ -47,15 +47,21 @@ The Downtown branch consistently outperformed other locations, indicating strong
 Marketing: Launch happy-hour or combo promotions during slow hours (after 4 PM).
 
 Inventory: Stock more of top-performing items like Barista Espresso and Cappuccino.
-
 Product Optimization: Reduce or discontinue low-performing categories (e.g., clothing, houseware).
-
 Customer Engagement: Implement a loyalty program to encourage repeat purchases during peak hours.
 
 🚀 Next Steps
 
 Automate daily sales reporting using Snowflake + Excel Power Query.
-
 Track sales across multiple locations in real-time dashboards.
+Introduce monthly performance tracking to identify early dips in product demand.
+
+👩🏽‍💻 Author
+
+Siblelo Mafrika
+Business & Data Enthusiast | Start-up Founder | Analyst
+📍 Based in Cape Town, South Africa
+💼 LinkedIn Profile
+ | 📧 mafrikasibuleo@gmail.com
 
 Introduce monthly performance tracking to identify early dips in product demand.
