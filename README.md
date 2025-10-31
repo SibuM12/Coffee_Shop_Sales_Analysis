@@ -57,11 +57,9 @@ Track sales across multiple locations in real-time dashboards.
 Introduce monthly performance tracking to identify early dips in product demand.
 
 👩🏽‍💻 Author
-
 Siblelo Mafrika
 Business & Data Enthusiast | Start-up Founder | Analyst
 📍 Based in Cape Town, South Africa
 💼 LinkedIn Profile
  | 📧 mafrikasibuleo@gmail.com
 
-Introduce monthly performance tracking to identify early dips in product demand.
