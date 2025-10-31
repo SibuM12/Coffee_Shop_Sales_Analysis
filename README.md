@@ -4,7 +4,7 @@
 
 📊 Project Overview
 
-This project analyzes sales data from Bright Coffee Shop to uncover insights about revenue performance, customer behavior, and product trends.
+This project analyzes sales data from Bright Coffee Shop to uncover insights about revenue performance, customer behavior and product trends for the three different stores.
 The goal was to help the CEO to make data-driven decisions around marketing, inventory and customer engagement strategies.
 
 🧠 Objectives
@@ -17,7 +17,7 @@ Provide actionable recommendations to boost revenue and customer retention.
 🧰 Tools & Technologies Used
 
 Tool	Purpose
-Snowflake SQL	Data extraction, transformation, and cleaning
+Snowflake SQL	Data extraction, transformation and cleaning
 Microsoft Excel	Data visualization and dashboard creation
 Pivot Tables & Charts	Interactive analysis and insight generation
 GitHub	Version control and project documentation
